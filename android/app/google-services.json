@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135949499765",
+    "project_id": "bizpluspos-app",
+    "storage_bucket": "bizpluspos-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135949499765:android:56d3c077afda047d42a73c",
+        "android_client_info": {
+          "package_name": "com.muriuki.bizpluspos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW6JHeQD8Is9CbUMMVngXjtMfnTblk8PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

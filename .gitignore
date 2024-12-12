@@ -1,0 +1,73 @@
+# React Native
+# Build directories
+android/app/build/
+android/build/
+ios/build/
+ios/Pods/
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+credentials.json
+upload_certificate.pem
+@muriuki__bizpluspos.jks
+
+# macOS
+.DS_Store
+
+
+
+# Android specific
+*.apk
+*.ap_
+*.dex
+*.class
+*.so
+*.jar
+*.war
+*.ear
+*.iml
+*.hprof
+*.log
+*.keystore
+android/.gradle/
+android/.idea/
+android/local.properties
+android/.settings/
+android/captures/
+android/output.json
+android/app/src/main/assets/index.android.bundle
+
+# iOS specific
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace
+*.xcuserstate
+ios/Pods/
+ios/Podfile.lock
+ios/Podfile
+ios/xcuserdata/
+ios/*.xcodeproj/project.xcworkspace/
+ios/*.xcodeproj/xcuserdata/
+ios/*.xcodeproj/xcshareddata/xcschemes/xcschememanagement.plist
+
+# Node.js
+npm-debug.log
+
+
+# Miscellaneous
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

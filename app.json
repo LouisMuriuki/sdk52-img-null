@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "BizPlus POS",
+    "slug": "bizpluspos",
+    "version": "2.0.2",
+    "orientation": "portrait",
+    "jsEngine": "hermes",
+    "icon": "./assets/iconmain.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash/mainsplash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#1560bd"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/15354435-a63f-4003-a5bd-fecc9ba02de7"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "runtimeVersion": {
+        "policy": "appVersion"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/iconmain.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "icon": "./assets/iconmain.png",
+      "package": "com.muriuki.bizpluspos",
+      "runtimeVersion": "1.0.0"
+    },
+    "web": {
+      "favicon": "./assets/iconmain.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "15354435-a63f-4003-a5bd-fecc9ba02de7"
+      }
+    },
+    "plugins": ["expo-font", "expo-asset"]
+  }
+}
